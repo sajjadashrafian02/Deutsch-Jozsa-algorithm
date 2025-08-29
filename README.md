@@ -39,3 +39,18 @@ Install dependencies:
 pip install qiskit qiskit-aer matplotlib 
 ```
 ## 4. Usage
+1. Launch Jupyter Notebook or Lab:
+2. Open Deustch-joza algorithm.ipynb.
+3. Run all the cells.
+4. Observe the following outputs:
+  * Circuit diagrams.
+  * Histograms showing measurement results.
+
+Expected outcomes:
+
+* Constant oracle → Always measure 0.
+* Balanced oracle → Always measure 1.
+## 5. Next Steps
+* Extend the algorithm to more qubits (\(n > 1\)) to see the exponential speedup.
+* Run the algorithm on a real IBM Quantum device instead of a simulator.
+* Compare the quantum solution to a classical method to see the efficiency differences.
