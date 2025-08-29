@@ -38,3 +38,4 @@ Install dependencies:
 ``` dash
 pip install qiskit qiskit-aer matplotlib 
 ```
+## 4. Usage
