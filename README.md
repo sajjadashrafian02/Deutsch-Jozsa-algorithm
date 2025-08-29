@@ -35,6 +35,6 @@ Python packages:
 * matplotlib
 
 Install dependencies:
-''' dash
+``` dash
 pip install qiskit qiskit-aer matplotlib 
-'''
+```
