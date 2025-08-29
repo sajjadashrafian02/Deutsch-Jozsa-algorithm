@@ -18,3 +18,23 @@ In this notebook,to keep  things simple, we use n=1 case.
 2. Run the algorithm on a simulator using Qiskit.
 3. Visualize the outcomes with histograms and statevectors.
 ## 2. Topics Learn
+As you go through this notebook, you will learn:
+
+* The difference between constant and balanced oracles.
+* How to build the Deutsch–Jozsa circuit using the Qiskit module.
+* How quantum interference allows us to distinguish function types in one step.
+* How to simulate and visualize results with Qiskit Aer and Matplotlib.
+  ## 3. Requirements
+* Python 3.10+ (I used 3.11)
+* Jupyter Notebook or Jupyter Lab
+
+Python packages:
+
+* qiskit
+* qiskit-aer (for simulation)
+* matplotlib
+
+Install dependencies:
+### dash
+pip install qiskit qiskit-aer matplotlib 
+###
